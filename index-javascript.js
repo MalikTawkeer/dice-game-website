@@ -3,8 +3,8 @@
 var player_1 = Math.floor(Math.random() * 6) + 1;
 var player_2 = Math.floor(Math.random() * 6) + 1;
 
-var won_count_1 =0;
-var won_count_2 =0;
+// var won_count_1 =0;
+// var won_count_2 =0;
 
 updatePlayer1_dice(player_1);
 updatePlayer2_dice(player_2);
